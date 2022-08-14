@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LbfcQkYoNcHqsQ7V5uZzTrH2a4+31G4OXdH5SYs07bOl0cwsaV1fIL1qtK55a05onQXP6b/pMOFH+Ua+8gYRvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\48562\\RiderProjects\\ScanImage\\IMGscan.WPF.UI\\IMGscan.WPF.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\48562\\.nuget\\packages\\fody\\6.6.2\\fody.6.6.2.nupkg.sha512",
+    "C:\\Users\\48562\\.nuget\\packages\\propertychanged.fody\\3.4.1\\propertychanged.fody.3.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="IMGscan.Avalonia.UI/App.axaml" value="IMGscan.Avalonia.UI/IMGscan.Avalonia.UI.csproj" />
+        <entry key="IMGscan.Avalonia.UI/Views/MainWindow.axaml" value="IMGscan.Avalonia.UI/IMGscan.Avalonia.UI.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

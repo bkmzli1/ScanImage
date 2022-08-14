@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dumo6eygd38YiUaMYSIpH0EeZj/DNBXQGtnQtxq6YKZRCZjjZwpaGXli2Vm45oQ+c4e4oZlH1LEkWNAapNs91Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\48562\\RiderProjects\\ScanImage\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\48562\\.nuget\\packages\\fody\\6.6.2\\fody.6.6.2.nupkg.sha512",
+    "C:\\Users\\48562\\.nuget\\packages\\propertychanged.fody\\3.4.1\\propertychanged.fody.3.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
